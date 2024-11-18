@@ -1,3 +1,5 @@
+# Fork 레포지토리 Issue에 스터디 활동이 적혀있습니다.
+
 ## Effective Java 3
 **Effective Java 3**를 읽고 issue를 통해 공부하는 스터디입니다. <br>
 ### 규칙
